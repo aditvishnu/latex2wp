@@ -30,7 +30,7 @@
 # change to HTML = True to produce standard HTML
 HTML = False
 
-# color of LaTeX formulas to go with the Geology WP theme
+# color of LaTeX formulas to go with the Geologist WP theme
 textcolor = "f5f0e5"
 bgcolor = "28262c"
 

@@ -1,7 +1,7 @@
 # LaTeX2WP
 
-A fork of Luca Trevisan’s [LaTeX2WP](https://lucatrevisan.wordpress.com/latex-to-wordpress/),  
-a tool that converts LaTeX documents into a format ready to paste into WordPress.
+A fork of Luca Trevisan’s [LaTeX2WP](https://lucatrevisan.wordpress.com/latex-to-wordpress/).  
+A tool that converts LaTeX documents into a format ready to paste into WordPress.
 
 This version (0.6.3) updates the original for Python 3 compatibility.
 
